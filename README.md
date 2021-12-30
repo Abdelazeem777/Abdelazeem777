@@ -1,4 +1,6 @@
 # Hello, folks! <img src="./assets/wave.gif" width="30px">
+
+<img src="https://komarev.com/ghpvc/?username=Abdelazeem777&style=flat"/>
 My name is Abdelazeem Kuratem and I am a Mobile developer (Flutter - Android native) 💻📱.
 
 Graduated from Kafr El-Sheikh University, Computer Science Department with 3.4 GPA.
