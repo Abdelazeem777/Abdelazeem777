@@ -1,6 +1,7 @@
 # Hi <img src="./assets/wave.gif" width="30px">
 
 <img src="https://komarev.com/ghpvc/?username=Abdelazeem777&style=flat"/>
+
 Hi, I'm Abdelazeem, a **Senior Mobile Developer** and **Mobile Team Lead** at Spark Systems with extensive experience in mobile development and a burgeoning passion for **Backend** technologies. Specializing in Flutter and native Android development, I am also diving deep into backend systems, exploring ASP.NET, NodeJS, PostgreSQL, MongoDB, Neo4j, and more to enhance my technical leadership skills.
 
 ## 🚀 About Me
@@ -11,7 +12,7 @@ Hi, I'm Abdelazeem, a **Senior Mobile Developer** and **Mobile Team Lead** at Sp
 
 ## 📢 Speaking & Content Creation
 - I regularly speak at software development conferences and produce educational content on my [YouTube channel](https://www.youtube.com/@abdelazeemkuratem7972).
-- Also, I love writing articles about the software engineering industry, with a special focus on Flutter, on my [LinkedIn](https://www.linkedin.com/in/abdelazeem-kuratem) account.
+- Also, I love writing articles about the software engineering industry, with a special focus on Flutter, on my [LinkedIn account](https://www.linkedin.com/in/abdelazeem-kuratem).
 
 ## 💬 Find me online
 - <img src="./assets/linkedinIcon.svg" width="20px" align="center"> **LinkedIn** : [Abdelazeem Kuratem](https://www.linkedin.com/in/abdelazeem-kuratem)
